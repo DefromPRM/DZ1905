@@ -1,0 +1,15 @@
+C:\Users\defro\OneDrive\Рабочий стол\ГикБрейнс\C#\ДЗ от 19 мая\bin\Debug\net6.0\ДЗ от 19 мая.exe
+C:\Users\defro\OneDrive\Рабочий стол\ГикБрейнс\C#\ДЗ от 19 мая\bin\Debug\net6.0\ДЗ от 19 мая.deps.json
+C:\Users\defro\OneDrive\Рабочий стол\ГикБрейнс\C#\ДЗ от 19 мая\bin\Debug\net6.0\ДЗ от 19 мая.runtimeconfig.json
+C:\Users\defro\OneDrive\Рабочий стол\ГикБрейнс\C#\ДЗ от 19 мая\bin\Debug\net6.0\ДЗ от 19 мая.dll
+C:\Users\defro\OneDrive\Рабочий стол\ГикБрейнс\C#\ДЗ от 19 мая\bin\Debug\net6.0\ДЗ от 19 мая.pdb
+C:\Users\defro\OneDrive\Рабочий стол\ГикБрейнс\C#\ДЗ от 19 мая\obj\Debug\net6.0\ДЗ от 19 мая.csproj.AssemblyReference.cache
+C:\Users\defro\OneDrive\Рабочий стол\ГикБрейнс\C#\ДЗ от 19 мая\obj\Debug\net6.0\ДЗ от 19 мая.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\defro\OneDrive\Рабочий стол\ГикБрейнс\C#\ДЗ от 19 мая\obj\Debug\net6.0\ДЗ от 19 мая.AssemblyInfoInputs.cache
+C:\Users\defro\OneDrive\Рабочий стол\ГикБрейнс\C#\ДЗ от 19 мая\obj\Debug\net6.0\ДЗ от 19 мая.AssemblyInfo.cs
+C:\Users\defro\OneDrive\Рабочий стол\ГикБрейнс\C#\ДЗ от 19 мая\obj\Debug\net6.0\ДЗ от 19 мая.csproj.CoreCompileInputs.cache
+C:\Users\defro\OneDrive\Рабочий стол\ГикБрейнс\C#\ДЗ от 19 мая\obj\Debug\net6.0\ДЗ от 19 мая.dll
+C:\Users\defro\OneDrive\Рабочий стол\ГикБрейнс\C#\ДЗ от 19 мая\obj\Debug\net6.0\refint\ДЗ от 19 мая.dll
+C:\Users\defro\OneDrive\Рабочий стол\ГикБрейнс\C#\ДЗ от 19 мая\obj\Debug\net6.0\ДЗ от 19 мая.pdb
+C:\Users\defro\OneDrive\Рабочий стол\ГикБрейнс\C#\ДЗ от 19 мая\obj\Debug\net6.0\ДЗ от 19 мая.genruntimeconfig.cache
+C:\Users\defro\OneDrive\Рабочий стол\ГикБрейнс\C#\ДЗ от 19 мая\obj\Debug\net6.0\ref\ДЗ от 19 мая.dll
